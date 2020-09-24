@@ -116,9 +116,10 @@ To that end, we will use the admin's Master Data legacy interface:
   ],
   "v-security": {
     "allowGetAll": false,
-    "publicRead": [ "fieldExemple" ],
-    "publicWrite": [ "fieldExemple" ],
-    "publicFilter": [ "fieldExemple" ]
+    "publicRead": ["fieldExample"],
+    "publicWrite": ["fieldExample"],
+    "publicFilter": ["fieldExample"],
+    "publicJsonSchema": true
   }
 }
 ```
@@ -215,9 +216,10 @@ When using Master Data v2, you will not need to previously create any field. Sim
   ],
   "v-security": {
     "allowGetAll": false,
-    "publicRead": [ "fieldExample" ],
-    "publicWrite": [ "fieldExample" ],
-    "publicFilter": [ "fieldExample" ]
+    "publicRead": ["fieldExample"],
+    "publicWrite": ["fieldExample"],
+    "publicFilter": ["fieldExample"],
+    "publicJsonSchema": true
   }
 }
 ```
