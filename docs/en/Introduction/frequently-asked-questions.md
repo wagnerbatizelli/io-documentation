@@ -66,7 +66,7 @@ Any VTEX store can start using Store Framework since it is an open beta. But bea
 
 The Store Framework solution is already included by default in VTEX contracts, without any additional cost for clients. 
 
-### What type of support is ensured?
+### What type of support is ensured by VTEX?
 
 All **native** Store Framework blocks benefit from VTEX support, which means that any problem that your store may face with Store Framework blocks can be dealt with by opening a [ticket](https://help-tickets.vtex.com/smartlink/sso/login/zendesk) and getting in touch with VTEX's Customer Care team.
 
@@ -75,6 +75,13 @@ Because it's an open-source project, Store Framework also grants its users commu
 Exchange ideas with other users by using [Discord](https://discordapp.com/channels/652163009988263940/652253291916296232)) or by reaching out to the product team on [Store Discussion](https://github.com/vtex-apps/store-discussion).
 
 In addition, you can benefit from our documentation and always be up-to-date with the evolution surrounding Framework by reading our [Release Notes](https://vtex.io/docs/releases/).
+
+### Are there any limitations regarding browsers?
+
+The Store Framework promises full compatibility with the two latest versions of the most used browsers, such as Google Chrome, Safari, Mozilla Firefox and Microsoft Edge.
+
+The framework can also work with Internet Explorer 11, but caution: VTEX does not guarantee that the store components will have the same 
+appearance in comparison to the other browsers.
 
 ### I want to use Store Framework. What do I need to do?
 
