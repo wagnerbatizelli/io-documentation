@@ -2,7 +2,7 @@
 
 Todo desenvolvimento no VTEX IO começa com o [**Toolbelt**](*link*), nossa CLI (Command Line Interface) que permite fazer login, desenvolver novas [apps](*link*) e gerenciar as já instaladas.
 
-## VTEX IO Toolbelt
+### VTEX IO Toolbelt
 
 Para instalar a CLI do VTEX IO, você precisa garantir que o seu computador tenha o [Node.js](https://nodejs.org/) e o [Yarn](https://yarnpkg.com/) instalados.
 
@@ -14,7 +14,7 @@ $ yarn global add vtex
 
 >ℹ️ *Para confirmar que a instalação ocorreu normalmente, você pode executar o comando `vtex`. Ele deverá mostrar um texto de ajuda com todos os comandos disponíveis.*
 
-## Login
+### Login
 
 Com a CLI do VTEX IO instalada, use o comando `vtex login para entrar na sua conta VTEX:
 
@@ -26,9 +26,9 @@ Isso abrirá uma janela do seu navegador que solicitará suas credenciais.
 
 Quando já estiver *logado*, você pode usar o comando `vtex whoami` para descobrir qual conta e *workspace* estão sendo usados pelo terminal.
 
-![]("https://user-images.githubusercontent.com/52087100/61886028-517e2780-aed5-11e9-9398-b6d2f3909a50.png"
+![vtex-use-whoamiexemplo](https://user-images.githubusercontent.com/52087100/61886028-517e2780-aed5-11e9-9398-b6d2f3909a50.png)
   
-## Criando seu próprio *workspace*
+### Criando seu próprio *workspace*
 
 Ao usar o VTEX IO, toda interação com uma conta acontece em um [***workspace***](*link*).
 
